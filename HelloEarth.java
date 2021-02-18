@@ -3,5 +3,6 @@
 public class HelloEarth {
     public static void main(String[] args) {
         System.out.println("Hello Earth and its citizens! Greetings to all of you!");
+        System.out.println("Earth is a beautiful planet");
     }
 }
