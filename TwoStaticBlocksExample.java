@@ -17,10 +17,12 @@ class TwoStaticBlocksExample {
     static {
         System.out.println("Second Static Block");
         numbertwo = 80;
-        samplestringone = "Block two";
+        samplestringtwo = "Block two";
     }
 
     public static void main(String[] args) {
+        System.out.println("This is the value of string one:  " + samplestringone);
+        System.out.println("This is the value of string two: " + samplestringtwo);
         System.out.println("This is the value of number one: " + numberone);
         System.out.println("This is the value of number two: " + numbertwo);
     }
