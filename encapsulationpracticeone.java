@@ -4,7 +4,7 @@
 
 public class encapsulationpracticeone {
     public static void main(String[] args) {
-        int myInt = 10;
+        int myInt = 15;
         double myDouble = myInt;
 
         System.out.println(myInt);

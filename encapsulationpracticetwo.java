@@ -4,7 +4,7 @@
 
 public class encapsulationpracticetwo {
     public static void main(String[] args) {
-        double myDouble = 12.34;
+        double myDouble = 12.345;
         int myInt = (int) myDouble;
 
         System.out.println(myDouble);

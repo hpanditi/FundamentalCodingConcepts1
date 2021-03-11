@@ -26,7 +26,7 @@ public class castingnumericalvalues {
 
         // The following won't work as we expect it to!
 
-        byteValue = (byte)128;
+        byteValue = (byte)129;
         System.out.println(byteValue);
 
     }
