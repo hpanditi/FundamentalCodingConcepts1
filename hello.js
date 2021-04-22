@@ -4,7 +4,7 @@ console.log("Hey I am coding in Javascript");
 
 console.log("This is super cool language");
 
-console.log("This is pretty near");
+console.log("This is pretty neat. This is very interesting");
 
 
 
