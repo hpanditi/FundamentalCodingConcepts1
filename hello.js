@@ -10,7 +10,7 @@ console.log("Howdy Partner. How ya'll doin? Good, me too");
 
 console.log("Hey hey. How's everybody doing today?");
 
-console.log("I am doing good");
+console.log("I am doing good!");
 
 
 
